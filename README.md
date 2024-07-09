@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello! I am Ethan and I am a student of all things Data and Business insights.<br>I aim to expand my knowledge and skills in machine learning, predictive analytics, and data visualization. <br>Additionally, my primary expertise is in ML model development and visualization using Python, and BI using PowerBI. <br>The area where I am currently growing the most is in model deployment and scalability.  
 
 
